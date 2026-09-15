@@ -139,7 +139,7 @@
 
 <p><b>Module Wiring Diagram (BW16):</b></p>
 <p align="center">
-  <img src="GAMBAR_SKEMATIK_BW16_ANDA_DISINI.jpg" width="800" alt="Wiring Diagram" />
+  <img src="[GAMBAR_SKEMATIK_BW16_ANDA_DISINI.jpg](https://github.com/AtherNet29/BW-16-RTL8720DN-DEAUTHER-EVILTWIN-NRF24/blob/12258e7b8a78edde4bc2e3f87f141659d4aad70e/SKEMA%20BW16.png)" width="800" alt="Wiring Diagram" />
 </p>
 
 <hr>
