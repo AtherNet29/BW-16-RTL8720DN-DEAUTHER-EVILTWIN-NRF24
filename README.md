@@ -132,9 +132,9 @@
 <hr>
 
 <h2>📸 Preview & Documentation</h2>
-<p><b>Module Wiring Diagram (BW16):</b></p>
+<p><b>Dashboard Preview (BW16):</b></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtherNet29/BW-16-RTL8720DN-DEAUTHER-EVILTWIN-NRF24/12258e7b8a78edde4bc2e3f87f141659d4aad70e/SKEMA%20BW16.png" width="800" alt="Wiring Diagram" />
+  <img src="https://raw.githubusercontent.com/AtherNet29/BW-16-RTL8720DN-DEAUTHER-EVILTWIN-NRF24/b84c7daf25f242708f9c6dcf363997635afc0394/DASHBOARD.jpg" width="800" alt="Dashboard Preview" />
 </p>
 
 <p><b>Module Wiring Diagram (BW16):</b></p>
