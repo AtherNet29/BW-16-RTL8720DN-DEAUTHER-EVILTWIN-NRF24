@@ -113,14 +113,6 @@
   <h2>💎 Get the Full / Premium Version</h2>
   <p>The file available in this repository is a <b>Trial Version</b>, strictly limited to <b>10 Minutes</b> of usage time for initial demonstration. Once the trial expires, the device is permanently locked and displays a "DEVICE LOCKED" message on both Web and OLED.</p>
   <p><b>Benefits of purchasing the Premium Version:</b></p>
-  <p>
-    ✅ No Time Limits (Premium Unlimited/Permanent).<br>
-    ✅ Get Latest Updates (Can be upgraded to newer versions later).<br>
-    ✅ Each purchase includes 2 free updates. You can request it anytime if there is a newer release.<br>
-    Contact me on Telegram if you are interested.<br>
-    The price above is for 1 copy of the binary file and cannot be duplicated.<br>
-    ✅ Technical Support via Telegram (Troubleshooting and custom wiring assistance).
-  </p>
   <br>
   <a href="https://t.me/+6283141852690">
   <img src="https://img.shields.io/badge/Buy_Now-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
